@@ -1,0 +1,84 @@
+
+#05-27-2020
+#this is a william's first lesson on Linux
+
+Agenda
+
+.linux
+.Background
+.Directories
+.Files
+
+Linux:Background
+.Open-sourced operating system
+. Servers, mainframe computers, routers,etc.
+.Popular distibution:
+    .Ubuntu
+    .Debian
+Advantages of Linux:
+.secure
+.Tailored operating Systems
+.Flexible
+
+What are directories?
+They are folders on a Linux system.
+How to make directories?
+ mkdir<Directory name>
+ mk:Make
+ dir:Directory
+
+
+Linux Directories
+Data path: chain of directories that lead to a file
+. Direct us to the data
+ls: view lsit of files in a directory
+ pwd
+p: present
+w:working
+d:directory
+
+Change directories
+
+cd<directory name>
+c:change
+d:directory
+cd<Data Path>
+
+Remove directory
+
+rm -r<Directory Name>
+rm:Remove
+rm -r<Data path>
+you will not get a warning it will remove without warning.  
+
+Data that holds information: txt,ppt,pdf,etc:
+.create
+.edit
+.Remove
+
+Create a file
+vi: Terminal text editor
+i: enter text
+esc: stopentering text
+x: save and quit
+
+Viewing file contents:
+cat: terminal file reader
+cat<file name>
+
+Moving files:
+mv<file name> <Destination>
+mv: Move
+Destimation:
+.Directory
+.Datapath
+
+Deleting Files:
+rm:Remove
+rm<name of file>
+no warning
+
+
+
+
+
