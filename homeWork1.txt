@@ -1,0 +1,59 @@
+
+#05-27-2020
+
+Exercise(s)
+
+List 3 facts about Linux
+Fact 1) Linux us a comunity of open source Unix like operating systems
+that are based on the Linux kernel
+
+Fact2) Linux was initially released by Linus Torvalds on September 17, 1991.
+
+Fact3) Linux is a free and open source operating system and the source code can
+be modified and distributed to anyone.
+
+Fact4) The biggest success of Linux is Andriod(operting syste), it is based
+on the Linud kernel that is running on smartphones and tablets.
+
+Fact5) Due to android Linux has the largest installed base of all general
+purposed operating systems.
+
+
+
+
+
+
+
+List 3 advantages of Linux
+1)Linux is compatible with a large number of file formats.
+2)it performs all task properly even if it has limited spacve on the hard disk
+3)The performance of the Linix system is much higerh than other operating systems.
+  It allows a large number of people to work at the same time and it handles them efficiently.
+4) It provides high stability. It rarely slows down or freezes and there is no need to reboot it 
+after a short time.
+5) it maintain the privacy of the user.  
+                   
+
+
+List two disadvantages of Linux:
+1) It is nor user friendly, it may be confusing for beginners
+2) It has  small peripheral Hardware drivers as compared to windows. 
+
+
+Make a folder called introDemo
+
+
+Inside introDemo make a file called test.txt
+
+write "This is a test" in test.txt
+
+
+Read the file content in the terminal 
+
+Expected Output:
+
+This is a test
+
+
+please read the link on geek for geeks called " Introduction to linux operating system"
+
